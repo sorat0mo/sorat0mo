@@ -2,13 +2,13 @@
 
 ### I am Karsten, going by the alias *sorat0mo* on github, this is my profile.
 
-I mainly contribute ZH-EN translations to various projects. I will also upload whatever I will code here.
+I mainly contribute ZH-EN translations to various projects. I will also upload bullshit I code here.
 
 🌐 This -> [https://loremipsum.lol/](https://loremipsum.lol/) is my homepage. You will find all the information you need there.
 
 ### I am...
 
-- 📖 Studying Information Security in [HKUSPACE](https://hkuspace.hku.hk/).
+- 📖 Studying Information Security.
 - 🐧 An avid [Linux](https://i.vgy.me/u8rmk8.png) user. I first used Ubuntu in 2012. Fully switched to Kubuntu in 2021 :)
 - 🎮 A gamer for more than 14 years! The first video game I ever played was [LF2](https://lf2.net/).
 - 🔮 A hololive simp, [this](https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg) is my waifu. **Yes**.
@@ -26,3 +26,5 @@ I am reachable through e-mail and Github, don't try Linkedin because I rarely vi
 
 ### My motto
 Believing in the power of open source and transparency, I am commited to license all my works copylefted(ish). I license all my works in permissive licenses such as WTFPL or the Lorem Ipsum Content License. Knowledge should be shared openly, not locked tight.
+
+Oh, this README is open source, too.
