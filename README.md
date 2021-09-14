@@ -11,7 +11,7 @@ I mainly contribute ZH-EN translations to various projects. I will also upload w
 - 📖 Studying Information Security in [HKUSPACE](https://hkuspace.hku.hk/).
 - 🐧 An avid [Linux](https://i.vgy.me/u8rmk8.png) user. I first used Ubuntu in 2012. Fully switched to Kubuntu in 2021 :)
 - 🎮 A gamer for more than 14 years! The first video game I ever played was [LF2](https://lf2.net/).
-- 🔮 A hololive simp, [this] is my waifu. **Yes**.
+- 🔮 A hololive simp, [this](https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg) is my waifu. **Yes**.
 - 🐈 A proud [cat](https://imgur.com/a/neVFzFE) gang member.
 - ✒️ A procrastinating blogger. Well, better than nothing.
 - 🐺 A lone wolf. Takes time to get comfy with new people.
