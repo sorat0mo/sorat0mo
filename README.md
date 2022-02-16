@@ -18,11 +18,13 @@ I mainly contribute ZH-EN translations to various projects. I will also upload b
 
 ### Where to find me
 
-I am reachable through e-mail and Github, don't try Linkedin because I rarely visit the site. I have more private channels, but I don't disclose them to strangers.
+I am reachable through e-mail and Github. I have more private channels, but I don't disclose them to strangers.
 
-### Some stats
+### Useless stats
 
 ![sorat0mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sorat0mo&show_icons=true&theme=nord)
+
+I am sure I will make more contributions...
 
 ### My motto
 Believing in the power of open source and transparency, I am commited to license all my works copylefted(ish). I license all my works in permissive licenses such as WTFPL or the Lorem Ipsum Content License. Knowledge should be shared openly, not locked tight.
