@@ -18,7 +18,7 @@ I mainly contribute ZH-EN translations to various projects. I will also upload b
 
 ### Where to find me
 
-I am reachable through e-mail and Github. I have more private channels, but I don't disclose them to strangers.
+I am reachable through Github. I have more private channels, but I don't disclose them to strangers.
 
 ### Useless stats
 
