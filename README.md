@@ -9,7 +9,7 @@ I mainly contribute ZH-EN translations to various projects. I will also upload b
 ### I am...
 
 - 📖 Studying Information Security.
-- 🐧 An avid [Linux](https://i.vgy.me/u8rmk8.png) user. I first used Ubuntu in 2012. Fully switched to Kubuntu in 2021 :)
+- 🐧 An avid [Linux](https://i.vgy.me/u8rmk8.png) user. I first used Ubuntu in 2012. ~~Fully switched to Kubuntu in 2021 :)~~ Now an OpenSUS user
 - 🎮 A gamer for more than 14 years! The first video game I ever played was [LF2](https://lf2.net/).
 - 🔮 A hololive simp, [this](https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg) is my waifu. **Yes**.
 - 🐈 A proud [cat](https://imgur.com/a/neVFzFE) gang member.
