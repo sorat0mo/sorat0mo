@@ -4,7 +4,7 @@
 
 I mainly contribute ZH-EN translations to various projects. I will also upload bullshit I code here.
 
-🌐 This -> [https://loremipsum.lol/](https://loremipsum.lol/) is my homepage. You will find all the information you need there.
+🌐 This -> [https://blog.loremipsum.lol/](https://blog.loremipsum.lol/) is my blog. Boring stuffs.
 
 ### I am...
 
