@@ -9,7 +9,7 @@ I mainly contribute ZH-EN translations to various projects. I will also upload b
 ### I am...
 
 - 📖 Studying Information Security.
-- 🐧 An avid [Linux](https://i.vgy.me/u8rmk8.png) user. I first used Ubuntu in 2012. ~~Fully switched to Kubuntu in 2021 :)~~ Now an OpenSUS user
+- 🐧 An avid [Linux](https://i.vgy.me/u8rmk8.png) user. [I am using Endeavour OS](https://endeavouros.com/).
 - 🎮 A gamer for more than 14 years! The first video game I ever played was [LF2](https://lf2.net/).
 - 🔮 A hololive simp, [this](https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg) is my waifu. **Yes**.
 - 🐈 A proud [cat](https://imgur.com/a/neVFzFE) gang member.
@@ -27,6 +27,6 @@ I am reachable through Github. I have more private channels, but I don't disclos
 I am sure I will make more contributions...
 
 ### My motto
-Believing in the power of open source and transparency, I am commited to license all my works copylefted(ish). I license all my works in permissive licenses such as WTFPL or the Lorem Ipsum Content License. Knowledge should be shared openly, not locked tight.
+Believing in the power of open source and transparency, I am commited to license all my works copylefted(ish). I license all my works in permissive licenses such as WTFPL or Creative Commons. Knowledge should be shared openly, not locked tight.
 
-Oh, this README is open source, too.
+Oh, this README is licensed under WTFPL, too.
