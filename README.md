@@ -4,7 +4,7 @@
 
 I mainly contribute ZH-EN translations to various projects. I will also upload bullshit I code here.
 
-🌐 This -> [https://blog.loremipsum.lol/](https://blog.loremipsum.lol/) is my blog. Boring stuffs.
+🌐 This -> [https://blog.bullshit.icu](https://blog.bullshit.icu) is my blog. Boring stuffs.
 
 ### I am...
 
