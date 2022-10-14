@@ -4,8 +4,6 @@
 
 I mainly contribute ZH-EN translations to various projects. I will also upload bullshit I code here.
 
-🌐 This -> [https://blog.bullshit.icu](https://blog.bullshit.icu) is my blog. Boring stuffs.
-
 ### I am...
 
 - 🐧 An avid Linux user. [I am using Endeavour OS](https://endeavouros.com/).
